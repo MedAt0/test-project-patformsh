@@ -1,0 +1,14 @@
+uuid: d568dbf0-c837-4a99-ba3e-8c8d25ff6c52
+name: 'test project'
+mail: test-project@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
