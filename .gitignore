@@ -21,3 +21,6 @@
 
 # Ignore .env files as they are personal
 /.env
+
+# Ignore services.yml files to prevent committing debug true.
+ /web/sites/default/services.yml
